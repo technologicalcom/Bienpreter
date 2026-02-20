@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BienPrêter</string>
+    <string name="projects_title">Les projets BienPrêter</string>
+    <string name="in_funding">en cours de financement</string>
+    <string name="in_repayment">en cours de remboursement</string>
+    <string name="fully_repaid">intégralement remboursés</string>
+    <string name="lend">Prêter</string>
+    <string name="login">Se connecter</string>
+    <string name="register">S\'inscrire</string>
+    <string name="rate_label">Taux</string>
+    <string name="duration_label">Durée</string>
+    <string name="amount_label">Montant</string>
+    <string name="rating_label">Note BP</string>
+    <string name="progress_label">Financement</string>
+    <string name="no_projects">Aucun projet trouvé</string>
+    <string name="auto_pilot">AutoPILOT</string>
+    <string name="project_image">Image du projet</string>
+    <string name="loading">Chargement...</string>
+    <string name="refresh">Actualiser</string>
+    <string name="login_title">Connexion</string>
+    <string name="login_subtitle">Connectez-vous pour voir tous les détails et commencer à prêter</string>
+    <string name="login_web">Se connecter sur le site</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="splash_tagline">Le crowdfactoring éthique</string>
+</resources>

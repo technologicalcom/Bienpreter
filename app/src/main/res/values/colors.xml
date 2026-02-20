@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bp_green">#1DB954</color>
+    <color name="bp_green_dark">#169A44</color>
+    <color name="bp_green_light">#E8F8EE</color>
+    <color name="bp_dark">#1A1A2E</color>
+    <color name="bp_navy">#16213E</color>
+    <color name="bp_yellow">#F5A623</color>
+    <color name="bp_orange">#E74C3C</color>
+    <color name="bp_gray">#8892A4</color>
+    <color name="bp_light_gray">#F5F6FA</color>
+    <color name="bp_white">#FFFFFF</color>
+    <color name="bp_card_bg">#FFFFFF</color>
+    <color name="bp_text_primary">#1A1A2E</color>
+    <color name="bp_text_secondary">#8892A4</color>
+    <color name="bp_divider">#E8ECF0</color>
+    <color name="bp_surface">#F5F6FA</color>
+</resources>
